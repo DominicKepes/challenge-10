@@ -1,3 +1,3 @@
 const CLI = require("./lib/cli");
 
-new CLI().run();
+new CLI().start();
